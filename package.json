@@ -1,0 +1,24 @@
+{
+  "name": "objecttagger",
+  "version": "1.0.0",
+  "description": "A tagger for objects to sort through them easily.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AEJester/ObjectTagger.git"
+  },
+  "keywords": [
+    "tagger",
+    "tags",
+    "objects"
+  ],
+  "author": "AEJester",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AEJester/ObjectTagger/issues"
+  },
+  "homepage": "https://github.com/AEJester/ObjectTagger#readme"
+}
